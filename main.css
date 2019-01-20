@@ -19,7 +19,10 @@
 
 html
 {
-    background-color: black;
+  background: url("space.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+    background-size: cover;
 }
 
 .button
